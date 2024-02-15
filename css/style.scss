@@ -510,7 +510,7 @@ html {
         padding: 0 1rem;
 
         h4 {
-            font-size: 3rem;
+            font-size: 18px;
             color: #ffffff;
             text-transform: capitalize;
             margin-bottom: 2.5rem;
@@ -650,6 +650,19 @@ html {
     .header {
         #menu-btn {
             display: inline-block;
+        }
+
+        .footer {
+
+
+            .footer-col {
+
+
+
+                h4 {
+                    font-size: 18px;
+                }
+            }
         }
 
         .navbar {
